@@ -12,7 +12,8 @@
   "scripts": {
     "prepublishOnly": "np --no-cleanup --yolo --no-publish",
     "publish": "npm publish",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "build": "tsc"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
