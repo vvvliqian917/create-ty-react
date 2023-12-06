@@ -1,9 +1,14 @@
 # create-ty-react
 Creates a react application using the command line.
 
-### usage
+### install
 ```
-yarn add -D 
+yarn global add create-ty-react
 
+```
+### Usage
+
+```
+    create-ty-react
 ```
 
